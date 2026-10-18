@@ -1,0 +1,13 @@
+layer,skip,linear
+0,"{'mlm_acc': 0.4565, 'mlm_loss': 3.4335}","{'mlm_acc': 0.4993, 'mlm_loss': 3.1466}"
+1,"{'mlm_acc': 0.4864, 'mlm_loss': 3.1438}","{'mlm_acc': 0.5017, 'mlm_loss': 3.0853}"
+2,"{'mlm_acc': 0.4797, 'mlm_loss': 3.3074}","{'mlm_acc': 0.4901, 'mlm_loss': 3.1674}"
+3,"{'mlm_acc': 0.4937, 'mlm_loss': 3.0909}","{'mlm_acc': 0.4926, 'mlm_loss': 3.1022}"
+4,"{'mlm_acc': 0.5059, 'mlm_loss': 2.9692}","{'mlm_acc': 0.5051, 'mlm_loss': 2.9762}"
+5,"{'mlm_acc': 0.5079, 'mlm_loss': 2.9578}","{'mlm_acc': 0.5082, 'mlm_loss': 2.9452}"
+6,"{'mlm_acc': 0.5066, 'mlm_loss': 2.9707}","{'mlm_acc': 0.5043, 'mlm_loss': 2.9815}"
+7,"{'mlm_acc': 0.5056, 'mlm_loss': 2.9847}","{'mlm_acc': 0.4983, 'mlm_loss': 3.0581}"
+8,"{'mlm_acc': 0.5013, 'mlm_loss': 2.996}","{'mlm_acc': 0.4966, 'mlm_loss': 3.036}"
+9,"{'mlm_acc': 0.4945, 'mlm_loss': 3.0566}","{'mlm_acc': 0.4955, 'mlm_loss': 3.0574}"
+10,"{'mlm_acc': 0.5037, 'mlm_loss': 3.0457}","{'mlm_acc': 0.4919, 'mlm_loss': 3.1216}"
+11,"{'mlm_acc': 0.4844, 'mlm_loss': 3.4489}","{'mlm_acc': 0.4924, 'mlm_loss': 3.2195}"

@@ -1,0 +1,8 @@
+condition,mode,arc_easy,hellaswag,lambada_openai,piqa
+intact,intact,0.642,0.448,0.626,0.758
+best_L7,skip,0.586,0.424,0.388,0.742
+best_L7,linear,0.652,0.446,0.568,0.754
+worst_L2,skip,0.546,0.414,0.404,0.696
+worst_L2,linear,0.58,0.426,0.5,0.708
+mid_pair,skip,0.472,0.376,0.132,0.662
+mid_pair,linear,0.506,0.39,0.398,0.696
