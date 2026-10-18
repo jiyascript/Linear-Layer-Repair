@@ -14,6 +14,8 @@ reach full-state R² of 0.95–0.99). Measuring the linear predictability of the
 across six models and three architecture families, and that profile predicts
 which layers a linear patch can actually repair.
 
+📄 [Abstract](https://blackboxnlp.github.io/2026/accepted_papers/) 
+
 ## Install
 
 ```bash
